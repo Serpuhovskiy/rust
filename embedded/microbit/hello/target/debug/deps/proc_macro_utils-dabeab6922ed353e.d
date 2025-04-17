@@ -1,0 +1,10 @@
+/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/debug/deps/libproc_macro_utils-dabeab6922ed353e.rmeta: /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/lib.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/parser.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/assert.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/__private.rs
+
+/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/debug/deps/libproc_macro_utils-dabeab6922ed353e.rlib: /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/lib.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/parser.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/assert.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/__private.rs
+
+/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/debug/deps/proc_macro_utils-dabeab6922ed353e.d: /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/lib.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/parser.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/assert.rs /home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/__private.rs
+
+/home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/lib.rs:
+/home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/parser.rs:
+/home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/assert.rs:
+/home/serpuhovskiy/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro-utils-0.10.0/src/__private.rs:
