@@ -1,6 +1,0 @@
-$ mkdir -p "/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/thumbv7em-none-eabihf/debug/build/az-5be7e86ff044258a/out/try_track_caller"
-$ cd "/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/thumbv7em-none-eabihf/debug/build/az-5be7e86ff044258a/out/try_track_caller"
-$ printf '%s' "// try_tra"... > "/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/thumbv7em-none-eabihf/debug/build/az-5be7e86ff044258a/out/try_track_caller/try_track_caller.rs"
-$ cd "/home/serpuhovskiy/\xd0\xa0\xd0\xb0\xd0\xb1\xd0\xbe\xd1\x87\xd0\xb8\xd0\xb9 \xd1\x81\xd1\x82\xd0\xbe\xd0\xbb/rust/microbit/hello/target/thumbv7em-none-eabihf/debug/build/az-5be7e86ff044258a/out/try_track_caller" && "/home/serpuhovskiy/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/bin/rustc" "try_track_caller.rs" "--emit=dep-info,metadata" >& /dev/null
-cargo:rustc-cfg=track_caller
-$ rm -r "/home/serpuhovskiy/Рабочий стол/rust/microbit/hello/target/thumbv7em-none-eabihf/debug/build/az-5be7e86ff044258a/out/try_track_caller"
